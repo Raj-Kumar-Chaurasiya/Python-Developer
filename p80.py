@@ -1,7 +1,5 @@
 # write a program find the total number of even and odd element.
 
-# Write a program to enter the element in list.
-
 l=[]
 size=int(input("Enter size:"))
 for i in range(size):
