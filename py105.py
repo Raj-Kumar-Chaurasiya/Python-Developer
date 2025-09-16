@@ -1,4 +1,4 @@
-# Write a program to print the values in dictionary.
+# Write a program to print to extern the both key and values in dictionary.
 
 
 dic={"name":"Ram",
